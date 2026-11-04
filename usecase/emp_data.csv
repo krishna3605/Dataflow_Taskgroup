@@ -1,0 +1,101 @@
+emp_id,first_name,last_name,email,department,job_title,hire_date,salary,city,state,country,employment_status,manager_id
+1001,Aarav,Sharma,employee1001@example.com,Engineering,Software Engineer,2018-01-08,363791,Hyderabad,Telangana,India,Active,
+1002,Vivaan,Reddy,employee1002@example.com,Data,Senior Data Engineer,2019-02-15,377582,Bengaluru,Karnataka,India,Active,
+1003,Aditya,Patel,employee1003@example.com,Finance,Finance Manager,2020-03-22,391373,Chennai,Tamil Nadu,India,Active,
+1004,Vihaan,Kumar,employee1004@example.com,HR,HR Executive,2021-04-01,405164,Pune,Maharashtra,India,On Leave,
+1005,Arjun,Rao,employee1005@example.com,Sales,Account Manager,2022-05-08,418955,Mumbai,Maharashtra,India,Inactive,
+1006,Sai,Gupta,employee1006@example.com,Operations,Coordinator,2023-06-15,432746,Delhi,Delhi,India,Active,1005
+1007,Ishaan,Verma,employee1007@example.com,Marketing,Marketing Analyst,2024-07-22,446537,Vijayawada,Andhra Pradesh,India,Active,1005
+1008,Reyansh,Iyer,employee1008@example.com,Engineering,Senior Engineer,2025-08-01,460328,Visakhapatnam,Andhra Pradesh,India,Active,1005
+1009,Krishna,Nair,employee1009@example.com,Data,Analytics Engineer,2018-09-08,474119,Kochi,Kerala,India,On Leave,1005
+1010,Rohan,Singh,employee1010@example.com,Finance,Financial Analyst,2019-10-15,487910,Jaipur,Rajasthan,India,Inactive,1005
+1011,Ananya,Das,employee1011@example.com,HR,Talent Acquisition Specialist,2020-11-22,501701,Hyderabad,Telangana,India,Active,1010
+1012,Diya,Mehta,employee1012@example.com,Sales,Sales Manager,2021-12-01,515492,Bengaluru,Karnataka,India,Active,1010
+1013,Aadhya,Joshi,employee1013@example.com,Operations,Operations Analyst,2022-01-08,529283,Chennai,Tamil Nadu,India,Active,1010
+1014,Ira,Chowdary,employee1014@example.com,Marketing,Digital Marketing Executive,2023-02-15,543074,Pune,Maharashtra,India,On Leave,1010
+1015,Meera,Naidu,employee1015@example.com,Engineering,Tech Lead,2024-03-22,556865,Mumbai,Maharashtra,India,Inactive,1010
+1016,Saanvi,Mishra,employee1016@example.com,Data,Data Engineer,2025-04-01,570656,Delhi,Delhi,India,Active,1015
+1017,Kavya,Kapoor,employee1017@example.com,Finance,Accountant,2018-05-08,584447,Vijayawada,Andhra Pradesh,India,Active,1015
+1018,Priya,Pillai,employee1018@example.com,HR,HR Manager,2019-06-15,598238,Visakhapatnam,Andhra Pradesh,India,Active,1015
+1019,Nisha,Agarwal,employee1019@example.com,Sales,Sales Executive,2020-07-22,612029,Kochi,Kerala,India,On Leave,1015
+1020,Riya,Banerjee,employee1020@example.com,Operations,Operations Manager,2021-08-01,625820,Jaipur,Rajasthan,India,Inactive,1015
+1021,Aarav,Reddy,employee1021@example.com,Marketing,Marketing Manager,2022-09-08,639611,Hyderabad,Telangana,India,Active,1020
+1022,Vivaan,Patel,employee1022@example.com,Engineering,Software Engineer,2023-10-15,653402,Bengaluru,Karnataka,India,Active,1020
+1023,Aditya,Kumar,employee1023@example.com,Data,Senior Data Engineer,2024-11-22,667193,Chennai,Tamil Nadu,India,Active,1020
+1024,Vihaan,Rao,employee1024@example.com,Finance,Finance Manager,2025-12-01,680984,Pune,Maharashtra,India,On Leave,1020
+1025,Arjun,Gupta,employee1025@example.com,HR,HR Executive,2018-01-08,694775,Mumbai,Maharashtra,India,Inactive,1020
+1026,Sai,Verma,employee1026@example.com,Sales,Account Manager,2019-02-15,708566,Delhi,Delhi,India,Active,1025
+1027,Ishaan,Iyer,employee1027@example.com,Operations,Coordinator,2020-03-22,722357,Vijayawada,Andhra Pradesh,India,Active,1025
+1028,Reyansh,Nair,employee1028@example.com,Marketing,Marketing Analyst,2021-04-01,736148,Visakhapatnam,Andhra Pradesh,India,Active,1025
+1029,Krishna,Singh,employee1029@example.com,Engineering,Senior Engineer,2022-05-08,749939,Kochi,Kerala,India,On Leave,1025
+1030,Rohan,Das,employee1030@example.com,Data,Analytics Engineer,2023-06-15,763730,Jaipur,Rajasthan,India,Inactive,1025
+1031,Ananya,Mehta,employee1031@example.com,Finance,Financial Analyst,2024-07-22,777521,Hyderabad,Telangana,India,Active,1030
+1032,Diya,Joshi,employee1032@example.com,HR,Talent Acquisition Specialist,2025-08-01,791312,Bengaluru,Karnataka,India,Active,1030
+1033,Aadhya,Chowdary,employee1033@example.com,Sales,Sales Manager,2018-09-08,805103,Chennai,Tamil Nadu,India,Active,1030
+1034,Ira,Naidu,employee1034@example.com,Operations,Operations Analyst,2019-10-15,818894,Pune,Maharashtra,India,On Leave,1030
+1035,Meera,Mishra,employee1035@example.com,Marketing,Digital Marketing Executive,2020-11-22,832685,Mumbai,Maharashtra,India,Inactive,1030
+1036,Saanvi,Kapoor,employee1036@example.com,Engineering,Tech Lead,2021-12-01,846476,Delhi,Delhi,India,Active,1035
+1037,Kavya,Pillai,employee1037@example.com,Data,Data Engineer,2022-01-08,860267,Vijayawada,Andhra Pradesh,India,Active,1035
+1038,Priya,Agarwal,employee1038@example.com,Finance,Accountant,2023-02-15,874058,Visakhapatnam,Andhra Pradesh,India,Active,1035
+1039,Nisha,Banerjee,employee1039@example.com,HR,HR Manager,2024-03-22,887849,Kochi,Kerala,India,On Leave,1035
+1040,Riya,Sharma,employee1040@example.com,Sales,Sales Executive,2025-04-01,901640,Jaipur,Rajasthan,India,Inactive,1035
+1041,Aarav,Patel,employee1041@example.com,Operations,Operations Manager,2018-05-08,915431,Hyderabad,Telangana,India,Active,1040
+1042,Vivaan,Kumar,employee1042@example.com,Marketing,Marketing Manager,2019-06-15,929222,Bengaluru,Karnataka,India,Active,1040
+1043,Aditya,Rao,employee1043@example.com,Engineering,Software Engineer,2020-07-22,943013,Chennai,Tamil Nadu,India,Active,1040
+1044,Vihaan,Gupta,employee1044@example.com,Data,Senior Data Engineer,2021-08-01,956804,Pune,Maharashtra,India,On Leave,1040
+1045,Arjun,Verma,employee1045@example.com,Finance,Finance Manager,2022-09-08,970595,Mumbai,Maharashtra,India,Inactive,1040
+1046,Sai,Iyer,employee1046@example.com,HR,HR Executive,2023-10-15,984386,Delhi,Delhi,India,Active,1045
+1047,Ishaan,Nair,employee1047@example.com,Sales,Account Manager,2024-11-22,998177,Vijayawada,Andhra Pradesh,India,Active,1045
+1048,Reyansh,Singh,employee1048@example.com,Operations,Coordinator,2025-12-01,1011968,Visakhapatnam,Andhra Pradesh,India,Active,1045
+1049,Krishna,Das,employee1049@example.com,Marketing,Marketing Analyst,2018-01-08,1025759,Kochi,Kerala,India,On Leave,1045
+1050,Rohan,Mehta,employee1050@example.com,Engineering,Senior Engineer,2019-02-15,1039550,Jaipur,Rajasthan,India,Inactive,1045
+1051,Ananya,Joshi,employee1051@example.com,Data,Analytics Engineer,2020-03-22,1053341,Hyderabad,Telangana,India,Active,1050
+1052,Diya,Chowdary,employee1052@example.com,Finance,Financial Analyst,2021-04-01,1067132,Bengaluru,Karnataka,India,Active,1050
+1053,Aadhya,Naidu,employee1053@example.com,HR,Talent Acquisition Specialist,2022-05-08,1080923,Chennai,Tamil Nadu,India,Active,1050
+1054,Ira,Mishra,employee1054@example.com,Sales,Sales Manager,2023-06-15,1094714,Pune,Maharashtra,India,On Leave,1050
+1055,Meera,Kapoor,employee1055@example.com,Operations,Operations Analyst,2024-07-22,1108505,Mumbai,Maharashtra,India,Inactive,1050
+1056,Saanvi,Pillai,employee1056@example.com,Marketing,Digital Marketing Executive,2025-08-01,1122296,Delhi,Delhi,India,Active,1055
+1057,Kavya,Agarwal,employee1057@example.com,Engineering,Tech Lead,2018-09-08,1136087,Vijayawada,Andhra Pradesh,India,Active,1055
+1058,Priya,Banerjee,employee1058@example.com,Data,Data Engineer,2019-10-15,1149878,Visakhapatnam,Andhra Pradesh,India,Active,1055
+1059,Nisha,Sharma,employee1059@example.com,Finance,Accountant,2020-11-22,1163669,Kochi,Kerala,India,On Leave,1055
+1060,Riya,Reddy,employee1060@example.com,HR,HR Manager,2021-12-01,1177460,Jaipur,Rajasthan,India,Inactive,1055
+1061,Aarav,Kumar,employee1061@example.com,Sales,Sales Executive,2022-01-08,1191251,Hyderabad,Telangana,India,Active,1060
+1062,Vivaan,Rao,employee1062@example.com,Operations,Operations Manager,2023-02-15,1205042,Bengaluru,Karnataka,India,Active,1060
+1063,Aditya,Gupta,employee1063@example.com,Marketing,Marketing Manager,2024-03-22,1218833,Chennai,Tamil Nadu,India,Active,1060
+1064,Vihaan,Verma,employee1064@example.com,Engineering,Software Engineer,2025-04-01,1232624,Pune,Maharashtra,India,On Leave,1060
+1065,Arjun,Iyer,employee1065@example.com,Data,Senior Data Engineer,2018-05-08,1246415,Mumbai,Maharashtra,India,Inactive,1060
+1066,Sai,Nair,employee1066@example.com,Finance,Finance Manager,2019-06-15,1260206,Delhi,Delhi,India,Active,1065
+1067,Ishaan,Singh,employee1067@example.com,HR,HR Executive,2020-07-22,1273997,Vijayawada,Andhra Pradesh,India,Active,1065
+1068,Reyansh,Das,employee1068@example.com,Sales,Account Manager,2021-08-01,1287788,Visakhapatnam,Andhra Pradesh,India,Active,1065
+1069,Krishna,Mehta,employee1069@example.com,Operations,Coordinator,2022-09-08,1301579,Kochi,Kerala,India,On Leave,1065
+1070,Rohan,Joshi,employee1070@example.com,Marketing,Marketing Analyst,2023-10-15,1315370,Jaipur,Rajasthan,India,Inactive,1065
+1071,Ananya,Chowdary,employee1071@example.com,Engineering,Senior Engineer,2024-11-22,1329161,Hyderabad,Telangana,India,Active,1070
+1072,Diya,Naidu,employee1072@example.com,Data,Analytics Engineer,2025-12-01,1342952,Bengaluru,Karnataka,India,Active,1070
+1073,Aadhya,Mishra,employee1073@example.com,Finance,Financial Analyst,2018-01-08,1356743,Chennai,Tamil Nadu,India,Active,1070
+1074,Ira,Kapoor,employee1074@example.com,HR,Talent Acquisition Specialist,2019-02-15,1370534,Pune,Maharashtra,India,On Leave,1070
+1075,Meera,Pillai,employee1075@example.com,Sales,Sales Manager,2020-03-22,1384325,Mumbai,Maharashtra,India,Inactive,1070
+1076,Saanvi,Agarwal,employee1076@example.com,Operations,Operations Analyst,2021-04-01,1398116,Delhi,Delhi,India,Active,1075
+1077,Kavya,Banerjee,employee1077@example.com,Marketing,Digital Marketing Executive,2022-05-08,1411907,Vijayawada,Andhra Pradesh,India,Active,1075
+1078,Priya,Sharma,employee1078@example.com,Engineering,Tech Lead,2023-06-15,1425698,Visakhapatnam,Andhra Pradesh,India,Active,1075
+1079,Nisha,Reddy,employee1079@example.com,Data,Data Engineer,2024-07-22,1439489,Kochi,Kerala,India,On Leave,1075
+1080,Riya,Patel,employee1080@example.com,Finance,Accountant,2025-08-01,1453280,Jaipur,Rajasthan,India,Inactive,1075
+1081,Aarav,Rao,employee1081@example.com,HR,HR Manager,2018-09-08,1467071,Hyderabad,Telangana,India,Active,1080
+1082,Vivaan,Gupta,employee1082@example.com,Sales,Sales Executive,2019-10-15,1480862,Bengaluru,Karnataka,India,Active,1080
+1083,Aditya,Verma,employee1083@example.com,Operations,Operations Manager,2020-11-22,1494653,Chennai,Tamil Nadu,India,Active,1080
+1084,Vihaan,Iyer,employee1084@example.com,Marketing,Marketing Manager,2021-12-01,358444,Pune,Maharashtra,India,On Leave,1080
+1085,Arjun,Nair,employee1085@example.com,Engineering,Software Engineer,2022-01-08,372235,Mumbai,Maharashtra,India,Inactive,1080
+1086,Sai,Singh,employee1086@example.com,Data,Senior Data Engineer,2023-02-15,386026,Delhi,Delhi,India,Active,1085
+1087,Ishaan,Das,employee1087@example.com,Finance,Finance Manager,2024-03-22,399817,Vijayawada,Andhra Pradesh,India,Active,1085
+1088,Reyansh,Mehta,employee1088@example.com,HR,HR Executive,2025-04-01,413608,Visakhapatnam,Andhra Pradesh,India,Active,1085
+1089,Krishna,Joshi,employee1089@example.com,Sales,Account Manager,2018-05-08,427399,Kochi,Kerala,India,On Leave,1085
+1090,Rohan,Chowdary,employee1090@example.com,Operations,Coordinator,2019-06-15,441190,Jaipur,Rajasthan,India,Inactive,1085
+1091,Ananya,Naidu,employee1091@example.com,Marketing,Marketing Analyst,2020-07-22,454981,Hyderabad,Telangana,India,Active,1090
+1092,Diya,Mishra,employee1092@example.com,Engineering,Senior Engineer,2021-08-01,468772,Bengaluru,Karnataka,India,Active,1090
+1093,Aadhya,Kapoor,employee1093@example.com,Data,Analytics Engineer,2022-09-08,482563,Chennai,Tamil Nadu,India,Active,1090
+1094,Ira,Pillai,employee1094@example.com,Finance,Financial Analyst,2023-10-15,496354,Pune,Maharashtra,India,On Leave,1090
+1095,Meera,Agarwal,employee1095@example.com,HR,Talent Acquisition Specialist,2024-11-22,510145,Mumbai,Maharashtra,India,Inactive,1090
+1096,Saanvi,Banerjee,employee1096@example.com,Sales,Sales Manager,2025-12-01,523936,Delhi,Delhi,India,Active,1095
+1097,Kavya,Sharma,employee1097@example.com,Operations,Operations Analyst,2018-01-08,537727,Vijayawada,Andhra Pradesh,India,Active,1095
+1098,Priya,Reddy,employee1098@example.com,Marketing,Digital Marketing Executive,2019-02-15,551518,Visakhapatnam,Andhra Pradesh,India,Active,1095
+1099,Nisha,Patel,employee1099@example.com,Engineering,Tech Lead,2020-03-22,565309,Kochi,Kerala,India,On Leave,1095
+1100,Riya,Kumar,employee1100@example.com,Data,Data Engineer,2021-04-01,579100,Jaipur,Rajasthan,India,Inactive,1095
